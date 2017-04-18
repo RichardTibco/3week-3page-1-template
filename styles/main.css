@@ -122,6 +122,7 @@ body {
 	vertical-align: middle;
 	text-align: center;
 	border-radius: 5px;
+	line-height: 54px;
 }
 
 .welcome_content li a:link {
@@ -129,9 +130,13 @@ body {
 }
 
 .desc {
+	background-color: #FFFFFF;
+	padding-bottom: 50px;
+}
+.wrap {
 	width: 1200px;
 	margin: 0 auto;
-	padding-bottom: 50px;
+	
 }
 
 .desc:after {
